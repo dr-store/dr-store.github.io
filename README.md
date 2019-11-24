@@ -1,4 +1,4 @@
-# DR Store Homepage
+# Kitap Bulur Homepage
 
 `http://github.com/kitap-bulur/kitap-bulur.github.io/pages/_*.md` → [http://kitap-bulur.github.io](http://kitap-bulur.github.io)
 
@@ -18,4 +18,4 @@
  
  ## License
 
-Enn Ara Homepage is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Kitap Bulur Homepage is released under the [MIT License](http://www.opensource.org/licenses/MIT).
