@@ -1,6 +1,6 @@
 # DR Store Homepage
 
-`http://github.com/dr-store/dr-store.github.io/pages/_*.md` → [http://dr-store.github.io](http://dr-store.github.io)
+`http://github.com/kitap-bulur/kitap-bulur.github.io/pages/_*.md` → [http://kitap-bulur.github.io](http://kitap-bulur.github.io)
 
 ## Powered By
 
